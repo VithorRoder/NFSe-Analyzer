@@ -1,4 +1,4 @@
-NFSe Analyzer
+## NFSe Analyzer
 
 NFSe Analyzer é uma ferramenta desktop que automatiza a leitura e consolidação de notas fiscais de serviço emitidas no Portal Nacional da NFS-e.
 
