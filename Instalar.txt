@@ -1,0 +1,2 @@
+py -m PyInstaller --clean --onefile --noconsole --name NFSeAnalyzer nfse_analyzer_gui.py
+py -m PyInstaller --clean --onefile --noconsole --name GeradorDeLicenca gerar_licenca_gui.py
